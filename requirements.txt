@@ -1,7 +1,0 @@
-streamlit
-openai
-pandas
-openpyxl
-pdf2image
-Pillow
-nest_asyncio
